@@ -1,4 +1,4 @@
-#Assignment 3: Part 2 - Tweets Clustering using k-means
+# Tweets Clustering using k-means
 
 Libraries Used:
 - pandas
